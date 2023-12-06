@@ -1,0 +1,16 @@
+{
+    "name": "oyta/emercapp",
+    "description": "Oyta POS Emerca",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Oyta\\Emercapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oyta"
+        }
+    ],
+    "require": {}
+}

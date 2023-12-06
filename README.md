@@ -1,4 +1,9 @@
-# 星POS 商户进件PHP demo
+# 星POS 商户进件PHPdemo
+
+> composer
+~~~
+composer require oyta/emercapp
+~~~
 
 引入
 ~~~
